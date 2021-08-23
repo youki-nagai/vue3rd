@@ -1,9 +1,12 @@
 # vue3rd
 
 ## viteと連携しています
-- node node_modules/esbuild/install.js
+- はじめに、このコマンドを実行
   - この実行がまず必要ぽい
   - https://github.com/evanw/esbuild/issues/462
+```
+node node_modules/esbuild/install.js
+```
 
 ## Project setup
 ```
